@@ -1,0 +1,50 @@
+body {
+	text-align: center;
+	background-image: url("images/dressing_rooms.JPG");
+	background-color: #fff;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: "Snell Roundhand", "Trebuchet MS", Helvetica, sans-serif; 
+
+}
+
+h1 {
+	color: #FF9F67;
+	padding-top: 40px;
+	font-size: 150px;
+
+}
+
+
+#slogan {
+	color: #3CD8E7;
+	font-size: 72px;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+p {
+	color: #3E207F;
+	font-size: 34px;
+	padding-top: 100px;
+}
+ul {
+	list-style: none;
+	color:#3E207F;
+	font-size: 30px;
+}
+
+a {
+	color:#3E207F;
+	font-size: 24px;
+	text-decoration: none;
+}
+a:hover {
+	color:#3CD8E7;
+	font-size: 24px;
+
+
+}
+
+
+
