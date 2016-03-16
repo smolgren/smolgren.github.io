@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Parisienne);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+#shop {
+	color: #3E207F;
+	font-size: 2em;
+	padding-top: 100px;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body {
+	text-align: center;
+	background-image: url(../images/dressing_rooms.jpg);
+	background-color: #fff;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+
+h1 {
+	color: #FF9F67;
+	padding-top: 40px;
+	font-size: 10em;
+	font-family: 'Parisienne', cursive; 
+	text-align: center;
+
+	
+
+}
+
+
+#slogan {
+	color: #3CD8E7;
+	font-size: 6em;
+	font-family: 'Parisienne', cursive;
+}
+
+p {
+	color: #3E207F;
+	font-size: 2em;
+	padding-top: 100px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+ul {
+	list-style: none;
+	color:#3E207F;
+	font-size: 2em;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a {
+	color:#3E207F;
+	font-size: 2em;
+	text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+a:hover {
+	color:#3CD8E7;
+	font-size: 2em;
+
+
+}
+
+
+
